@@ -59,12 +59,7 @@
 
 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Aditi-Agrawal07/Aditi-Agrawal07/output/snake.svg" alt="Snake animation" />
-
-
-<br clear="both">
 
 <div align="left">
 </div>
