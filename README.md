@@ -57,20 +57,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditi-Agrawal07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Aditi-Agrawal07/Aditi-Agrawal07/output/snake.svg" alt="Snake animation" />
 
-###
 
 <br clear="both">
 
 <div align="left">
 </div>
-
-###
 
 <br clear="both">
 
